@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+# Unreal Engine stuff
+/Saved
