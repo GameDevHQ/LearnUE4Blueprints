@@ -4,7 +4,7 @@ Education project for grow up your skills with Blue Unreal Engine 4.
 This project created for taking first experience with Unreal Engine Blueprints. Inside this repository you will find my project, which based ONLY on Blueprints. Project using FirstPersonTemplate, which has provided by default with UE4. Most ideas and user experience hints implemented under impression of "Blueprints Visual Scripting for Unreal Engine" book by Brenden Sewell.
 
 # Requiremetns
-- Unreal Engine 4.10.2
+- Unreal Engine 4.10.4
 
 # Features
 - Zoom In/Out for weapon
