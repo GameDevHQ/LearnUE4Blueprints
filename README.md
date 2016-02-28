@@ -12,5 +12,6 @@ This project created for taking first experience with Unreal Engine Blueprints. 
 - Constraining player actions (like draining/regenerating stamina)
 - HUD for player (health/stamina bars, ammo/enemy counters, etc.)
 - Menu screen with triggers (restart and quit)
+- AI for enemys (patroling, chasing) 
 - Collecting ammo
 
